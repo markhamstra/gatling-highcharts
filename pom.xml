@@ -11,7 +11,7 @@
   <packaging>jar</packaging>
   <description>gatling-charts-highcharts</description>
   <url>http://gatling.io</url>
-  <version>2.0.3-csd-1</version>
+  <version>2.0.3-csd-1-SNAPSHOT</version>
   <licenses>
     <license>
       <name>Gatling Highcharts License</name>
