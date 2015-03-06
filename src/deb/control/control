@@ -1,0 +1,8 @@
+Package: [[deb.package.name]]
+Version: [[version]]-[[buildNumber]]
+Section: [[deb.section]]
+Priority: extra
+Architecture: [[deb.architecture]]
+Maintainer: Mark Hamstra <mark@clearstorydata.com>
+Description: Debian package for [[artifactId]]
+Distribution: [[deb.distribution]]
